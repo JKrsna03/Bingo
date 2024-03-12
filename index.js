@@ -13,7 +13,8 @@ function generateRandomNumber()
     {
         console.log(`Random Number is >= to 5`)
     }
-    else{
+    else
+    {
         console.log(`Random Number is <= to 5`)
     }
 
